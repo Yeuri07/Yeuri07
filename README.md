@@ -1,6 +1,5 @@
 # 💻 About Me:
-
- Hi 👋                                                                                                                                                                   
+ 👋 Hi                                                                                                                                                                   
  🔭 I’m currently working on my Skills.                                                                                                                                   
  🌱 I’m currently learning more about Fullstack Web development.
 
