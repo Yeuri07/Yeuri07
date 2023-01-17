@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+🔭 I’m currently working on my Skills.
+🌱 I’m currently learning more about Fullstack Web development
 
 <!--
 **Yeuri07/Yeuri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
