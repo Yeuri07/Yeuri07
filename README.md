@@ -3,6 +3,14 @@
  🔭 I’m currently working on my Skills.                                                                                                                                   
  🌱 I’m currently learning more about Fullstack Web development.
 
+ ## Languages and Tools
+
+- Semantic HTML
+- CSS
+- TailwindCSS
+- JavaScript
+- React
+
 <!--
 **Yeuri07/Yeuri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
